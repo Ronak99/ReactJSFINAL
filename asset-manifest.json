@@ -1,13 +1,13 @@
 {
   "main.css": "/ReactJSFINAL/static/css/main.b42ec551.chunk.css",
-  "main.js": "/ReactJSFINAL/static/js/main.ca836dfd.chunk.js",
-  "main.js.map": "/ReactJSFINAL/static/js/main.ca836dfd.chunk.js.map",
-  "static/js/1.6eb918ac.chunk.js": "/ReactJSFINAL/static/js/1.6eb918ac.chunk.js",
-  "static/js/1.6eb918ac.chunk.js.map": "/ReactJSFINAL/static/js/1.6eb918ac.chunk.js.map",
+  "main.js": "/ReactJSFINAL/static/js/main.550de519.chunk.js",
+  "main.js.map": "/ReactJSFINAL/static/js/main.550de519.chunk.js.map",
+  "static/js/1.5fdc6aec.chunk.js": "/ReactJSFINAL/static/js/1.5fdc6aec.chunk.js",
+  "static/js/1.5fdc6aec.chunk.js.map": "/ReactJSFINAL/static/js/1.5fdc6aec.chunk.js.map",
   "runtime~main.js": "/ReactJSFINAL/static/js/runtime~main.a9166590.js",
   "runtime~main.js.map": "/ReactJSFINAL/static/js/runtime~main.a9166590.js.map",
   "static/media/hospice-list.scss": "/ReactJSFINAL/static/media/kids.c89583d6.png",
-  "static/media/home.scss": "/ReactJSFINAL/static/media/girl1.817758de.png",
+  "static/media/home.scss": "/ReactJSFINAL/static/media/girl2.86bbfcd0.png",
   "static/media/slider.scss": "/ReactJSFINAL/static/media/slider1.70ef8864.png",
   "static/media/discounts.scss": "/ReactJSFINAL/static/media/action.242d6c9b.png",
   "static/media/news.scss": "/ReactJSFINAL/static/media/news2.b9ee4444.png",
@@ -17,6 +17,6 @@
   "static/media/footer.scss": "/ReactJSFINAL/static/media/logo-black.1b873f9d.png",
   "static/css/main.b42ec551.chunk.css.map": "/ReactJSFINAL/static/css/main.b42ec551.chunk.css.map",
   "index.html": "/ReactJSFINAL/index.html",
-  "precache-manifest.9ac81ded935223a9b14d3897758f9b96.js": "/ReactJSFINAL/precache-manifest.9ac81ded935223a9b14d3897758f9b96.js",
+  "precache-manifest.bcc99d60eb5c045c54b2ca9762aaa242.js": "/ReactJSFINAL/precache-manifest.bcc99d60eb5c045c54b2ca9762aaa242.js",
   "service-worker.js": "/ReactJSFINAL/service-worker.js"
 }

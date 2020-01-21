@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/ReactJSFINAL/static/media/news3.11c66aa4.png"
   },
   {
-    "revision": "ca836dfdb5a32cf5d094",
+    "revision": "550de5197ffa33d020ae",
     "url": "/ReactJSFINAL/static/css/main.b42ec551.chunk.css"
   },
   {
-    "revision": "6eb918ac1060be0ea4e9",
-    "url": "/ReactJSFINAL/static/js/1.6eb918ac.chunk.js"
+    "revision": "5fdc6aecbd67373e76b6",
+    "url": "/ReactJSFINAL/static/js/1.5fdc6aec.chunk.js"
   },
   {
     "revision": "a916659051f25d892e22",
     "url": "/ReactJSFINAL/static/js/runtime~main.a9166590.js"
   },
   {
-    "revision": "86bbfcd0c0f214e79822b03df6b55901",
-    "url": "/ReactJSFINAL/static/media/girl2.86bbfcd0.png"
-  },
-  {
     "revision": "817758deac1f3c925683b1ffefc20e2c",
     "url": "/ReactJSFINAL/static/media/girl1.817758de.png"
+  },
+  {
+    "revision": "86bbfcd0c0f214e79822b03df6b55901",
+    "url": "/ReactJSFINAL/static/media/girl2.86bbfcd0.png"
   },
   {
     "revision": "70ef88641bdd667a9a9910108c18584d",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/ReactJSFINAL/static/media/action.242d6c9b.png"
   },
   {
-    "revision": "ca836dfdb5a32cf5d094",
-    "url": "/ReactJSFINAL/static/js/main.ca836dfd.chunk.js"
+    "revision": "550de5197ffa33d020ae",
+    "url": "/ReactJSFINAL/static/js/main.550de519.chunk.js"
   },
   {
     "revision": "b2db2fb9ce5b8d1e22f753b55da38425",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/ReactJSFINAL/static/media/logo-black.1b873f9d.png"
   },
   {
-    "revision": "6699fd0becf9726f94e057a1c879b1b7",
+    "revision": "ac0c3369147ac3e91afdd0712fcf4ebd",
     "url": "/ReactJSFINAL/index.html"
   }
 ];
